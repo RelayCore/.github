@@ -35,7 +35,3 @@ We welcome contributions! To get involved:
 2. Create a feature branch.
 3. Make your changes and commit with clear messages.
 4. Submit a pull request for review.
-
-## License
-
-All Relay projects are open source and available under the MIT License unless otherwise specified.
